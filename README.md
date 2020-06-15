@@ -1,4 +1,4 @@
-# Simple QuizApp
+# Simple Quiz App
 
 This is another console project. The project helps to practice arrays and loops
 
